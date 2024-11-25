@@ -1,4 +1,4 @@
-# Structure Team
+## Structure Team
 1. Firzian Caesar Ananta (M269B4KY1531) - Machine Learning
 2. Hafil Jammi’us Syaghir (M179B4KY1666) - Machine Learning
 3. Ikhdan Maghfuron (M639B4KY1920) - Machine Learning
@@ -7,5 +7,8 @@
 6. Feron Saputra (A272B4KY1494) - Mobile Development
 7. Mush’ab Al Mubarak (A272B4KY3157) - Mobile Development Leader
 
-# Documentation
+## Documentation
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]([portfolio/README.md](https://shadowed-dive-f87.notion.site/VanillaTech-12b8205c71c380d2b5b1e634ad6384db?pvs=74))
+
+## Tech Stack Product
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
